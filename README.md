@@ -7,4 +7,7 @@ A collection of two dimensional animations that are triggered by sound.
 
 Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).
 
-Forked by Warren MacEvoy (www.github.com/wmacevoy) for Math & Science Center Kiosk.  Removed remote dependences for localhost hosting with no network.
+Forked by Warren MacEvoy (www.github.com/wmacevoy) for Math & Science Center Kiosk.  Removed remote dependences for localhost hosting with no network.  To run (requires no web server)
+
+google-chrome --allow-file-access-from-files index.html 
+
