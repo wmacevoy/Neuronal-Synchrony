@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/google-chrome --kiosk --allow-file-access-from-files /home/user/Neuronal-Synchrony/index.html
